@@ -1,2 +1,2 @@
 # GrADS
- weather atabase with GrADS language
+ weather database with GrADS language
