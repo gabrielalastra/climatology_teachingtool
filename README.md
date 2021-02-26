@@ -2,6 +2,7 @@
  weather database with GrADS language
 
 os scripts foram desenvolvidos na linguagem do software GrADS,
+para usuários iniciantes, focado nos discentes de geografia
 com a finalidade de apresentar os comandos necessários para:
 - abrir banco de dados em extensão NETCDF
 - aplicar recortes em 3 dimensões (lat,lon,tempo)
