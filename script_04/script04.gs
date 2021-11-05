@@ -7,6 +7,11 @@
 #os valores de lat e lon que o usuario desejar
 #no periodo da decada de 1970
 
+#Os dados de reanalise numerica da Temperatura do Ar Continental
+#e da Temperatura Superficial dos Oceanos
+#esta disponivel no site NOAA/NASA
+#https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
+
 #comandos iniciais
 'reinit'
 'set display color white'
