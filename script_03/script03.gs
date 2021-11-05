@@ -4,9 +4,14 @@ VERSIDADE DE SAO PAULO
 #GABRIELA LASTRA
 
 #Esse programa desenvolve dois mapas alinhados horizontalmente
-#sobre a media e o desvio padrao em relacao a media
+#calculando a media e o desvio padrao em relacao a media
 # entre 1997-1998
-#utilizando o banco de dados de Temperatura Superficial dos Oceanos
+#no banco de dados de Temperatura Superficial dos Oceanos
+
+#Os dados de reanalise numerica
+#da Temperatura Superficial dos Oceanos
+#esta disponivel no site NOAA/NASA
+#https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
 
 #comandos iniciais
 'reinit'
