@@ -3,9 +3,17 @@
 #PROFA DRA MARIA ELISA SIQUEIRA
 #GABRIELA LASTRA
 
-#Esse script considera os dados de Temperatura Superficial dos Oceanos
-#e Temperatura do ar Continental
-#recortados para a America do Sul, em janeiro de 1948.
+#Esse script considera os dados de Temperatura do Ar Continental
+#na America do Sul em janeiro de 1970
+#E os dados de Temperatura Superficial dos Oceanos
+#para o globo em projecao cilidrica/ projecao de mercator
+#e salva os dois mapas separadamente em PNG
+
+#Os dados de reanalise numerica da Temperatura do Ar Continental
+#e da Temperatura Superficial dos Oceanos
+#esta disponivel no site NOAA/NASA
+#https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
+
 #Comandos iniciais
 #reiniciando
 'reinit'
@@ -84,4 +92,3 @@
 
 #salvar o mapa
 'printim sst.global.1970.png'
-
