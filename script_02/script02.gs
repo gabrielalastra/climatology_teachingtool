@@ -4,11 +4,20 @@
 #GABRIELA LASTRA
 
 
-#Esse script calcula a anomalia da temperatura superficial dos oceanos
+#Esse script calcula a anomalia da Temperatura Superficial dos Oceanos
 #na decada de 1970 em relacao a media global do seculo XX
 #e a anomalia durante o evento El Nino em  1997-1998
 #imprimindo tambem a media global do seculo XX
-#gerando tres arquivos em extensao png
+#gerando tres arquivos em extensao PNG
+
+#Objetivando evidenciar a diferenca da anomalia
+#durante o evento climatico e como pode ser imperceptivel
+#quando aumentamos o tamanho do grupo amostral
+
+#Os dados de reanalise numerica
+# da Temperatura Superficial dos Oceanos
+#esta disponivel no site NOAA/NASA
+#https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
 
 #Os primeiros comandos garantem que o programa nao execute outro simultaneamente e troca o fundo do display para branco
 'reinit'
