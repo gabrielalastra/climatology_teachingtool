@@ -1,5 +1,5 @@
-# GrADS
- weather database with GrADS language
+# Grid Analysis and Display System (GrADS)
+ weather database with GrADS software and language
 
 
 Those scripts were developed on GrADS language for beginners.
