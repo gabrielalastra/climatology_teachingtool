@@ -1,7 +1,4 @@
 # Grid Analysis and Display System (GrADS)
- weather database with GrADS software and language
-
-
 Those scripts were developed on GrADS language for beginners.
 I developed it thinking on geographer's teachers using them as a didactic tool.
 
