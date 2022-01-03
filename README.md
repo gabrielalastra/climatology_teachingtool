@@ -3,7 +3,12 @@
   </br>I developed it thinking on geographer's teachers using them as a didactic tool.</h2>
 <body>
   <p> The goal is to present the command lines useful for:</p>
-</br>- open a NETCDF database
+</br>- open a NETCDF database 
+
+choose the dataset in: https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png"
+         height="45"
+         width="45"
+         align="right"/>
 </br>- select 3 dimension (lat, lon, time)
 </br>- apply the anomaly on two data samples
 </br>- apply the average and the standart deviantion in the same data
@@ -13,11 +18,17 @@
 </br><h4>This software is opensource and a good alternative to view the moviment of atmosphere and ocean,
 also its a good tool in the teaching-learning process.</h4>
 
-<hr><h3 align="right"> Português</h3>
-<p>Os scripts foram desenvolvidos na linguagem do software GrADS, para usuários iniciantes
+<hr>
+<h3 align="right"> Português</h3>
+<p>Os scripts foram desenvolvidos na linguagem do software GrADS para usuários iniciantes
 e focado nos discentes de geografia
-com a finalidade de apresentar os comandos necessários para:</p>
+</br>com a finalidade de apresentar os comandos necessários para:</p>
+ <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png"
+         height="45"
+         width="45"
+         align="right"/>
 </br>- abrir banco de dados em extensão NETCDF
+</br>escolha o banco de dados em: https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html
 </br>- aplicar recortes em 3 dimensões (lat,lon,tempo)
 </br>- aplicar anomalia para duas amostras de dados
 </br>- aplicar media e desvio em relacao a media para a mesma amostra de dados 
