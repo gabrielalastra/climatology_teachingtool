@@ -1,6 +1,6 @@
 <h1 align="center"> Grid Analysis and Display System (GrADS)</h1>
 <h2>Those scripts were developed on GrADS language for beginners.
-  </br>I developed it thinking on geographer's teachers using them as a didactic tool.</h2>
+  </br>I developed it thinking on geographer's teachers using them as a didactic tool to assist the climatology class.</h2>
 <body>
   <p> The goal is to present the command lines useful for:</p>
 </br>- open a NETCDF database 
