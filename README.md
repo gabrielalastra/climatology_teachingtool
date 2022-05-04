@@ -1,5 +1,6 @@
+<img align='left' width=20% src='https://lcb.fflch.usp.br/themes/contrib/fflch-theme/images/logo.png'/>
 <h1 align="center"> Grid Analysis and Display System (GrADS)</h1>
-<h2 align="center">by Gabriela Lastra and Climatology and Biogeography Laboratory - FFLCH USP</h2>
+<h2 align="center">by Gabriela Lastra and The Climatology and Biogeography Laboratory - FFLCH USP</h2>
 </br></br>
 <h3><p>Those scripts were developed on GrADS language for beginners.</p>
   <p>The developed scripts aim to be a didactic tool for teaching Climatology.</p></h3>
