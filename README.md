@@ -1,9 +1,11 @@
 <img align='left' width=20% src='https://lcb.fflch.usp.br/themes/contrib/fflch-theme/images/logo.png'/>
-<h1 align="center"> Grid Analysis and Display System (GrADS)</h1>
+<h1 align="center">Computational language as a didactic tool in the teaching of Climatology in the Geography course at the University of São Paulo
+</h1>
 <h2 align="center">by Gabriela Lastra and The Climatology and Biogeography Laboratory - FFLCH USP</h2>
 </br></br>
 <h3><p>Those scripts were developed on GrADS language for beginners.</p>
-  <p>The developed scripts aim to be a didactic tool for teaching Climatology.</p></h3>
+  <p>The developed scripts aim to be a didactic tool for teaching Climatology.</p>
+  <p>Software and Language: Grid Analysis and Display System (GrADS)</p></h3>
 <body>
   <p> The goal is to present the command lines useful for:</p>
   <li> open a NETCDF database </br>
@@ -24,8 +26,11 @@ also its a good tool in the teaching-learning process.</h4>
 <hr>
 <h2 align="right"> Português</h2>
 </br></br>
+<img align='left' width=20% src='https://lcb.fflch.usp.br/themes/contrib/fflch-theme/images/logo.png'/>
+<h1 align="center">Linguagem computacional como ferramenta didática no ensino de Climatologia do curso de Geografia da Universidade de São Paulo</h1>
 <h3><p>Os scripts foram desenvolvidos na linguagem do software GrADS para usuários iniciantes.</p>
-  <p>O scripts desenvolvidos pretendem ser uma ferramenta didática para o ensino de Climatologia.</p></h3>
+  <p>O scripts desenvolvidos pretendem ser uma ferramenta didática para o ensino de Climatologia.</p>
+  <p>Software and Language: Grid Analysis and Display System (GrADS)</p></h3>
 
 </p>O objetivo é apresentar os comandos necessários para:</p>
  <img src="https://icons.iconarchive.com/icons/flat-icons.com/flat/64/Satellite-icon.png"
