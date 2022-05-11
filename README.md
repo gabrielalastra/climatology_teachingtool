@@ -14,12 +14,12 @@ choose the dataset in: https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.ht
          height="45"
          width="45"
          align="right"/>
-<li>- select 3 dimension (lat, lon, time)</li>
-<li>- apply the anomaly on two data set</li>
-<li>- apply the average and the standart deviantion in the same data set</li>
-<li>- view the behavior of the variable in a the selected period</li>
-<li>- show different types of map alignment, titles and legend.</li>
-<li>- save the maps in PNG format. </li>
+<li> select 3 dimension (lat, lon, time)</li>
+<li> apply the anomaly on two data set</li>
+<li> apply the average and the standart deviantion in the same data set</li>
+<li> view the behavior of the variable in a the selected period</li>
+<li> show different types of map alignment, titles and legend.</li>
+<li> save the maps in PNG format. </li>
 </br><h4>This software is opensource and a good alternative to view the moviment of atmosphere and ocean,
 also its a good tool in the teaching-learning process.</h4>
 
@@ -37,13 +37,13 @@ also its a good tool in the teaching-learning process.</h4>
          height="45"
          width="45"
          align="right"/>
-<li>- abrir banco de dados em extensão NETCDF
+<li> abrir banco de dados em extensão NETCDF
 </br>escolha o banco de dados em: https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html</li>
-<li>- aplicar recortes em 3 dimensões (lat,lon,tempo)</li>
-<li>- aplicar anomalia para dois grupos de dados</li>
-<li>- aplicar media e desvio em relacao a media para o mesmo grupo de dados</li>
-<li>- visualizar o comportamento da variavel no tempo selecionado</li>
-<li>- apresentar diferentes tipos de alinhamento de mapas, titulos e legendas</li>
-<li>- salvar mapas em extensão PNG</li>
+<li> aplicar recortes em 3 dimensões (lat,lon,tempo)</li>
+<li> aplicar anomalia para dois grupos de dados</li>
+<li> aplicar media e desvio em relacao a media para o mesmo grupo de dados</li>
+<li> visualizar o comportamento da variavel no tempo selecionado</li>
+<li> apresentar diferentes tipos de alinhamento de mapas, titulos e legendas</li>
+<li> salvar mapas em extensão PNG</li>
 </br><h4>O software é open source e uma boa alternativa para visualizar o comportamento físico da atmosfera e oceanos, uma ferramenta potente para o processo de ensino-aprendizagem.</h4>
 </body>
