@@ -1,0 +1,1 @@
+media e desvio padrao
